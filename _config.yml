@@ -91,7 +91,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "GC Necromancy Project" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/GCNP.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/GCNP.png" # Site logo, also used in jekyll-seo-tag
 description: "Description GOES HERE" # Site description and default description, also used in jekyll-seo-tag
 url: "https://gcnp.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
