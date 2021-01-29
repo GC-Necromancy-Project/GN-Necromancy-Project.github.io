@@ -5,7 +5,10 @@ $featureBackgroundColour: #f9fafa !default;
 $accentColour: #05bf85 !default;
 
 // Text colours
-$headingColour: #242e2b !default;
+
+//Set Heading Manually because styles.scss not updating?
+//$headingColour: #242e2b !default;
+$headingColour: #7c0902 !default;
 $bodyColour: #384743 !default;
 $linkColour: #05bf85 !default;
 $hoverColour: #008000 !default;
