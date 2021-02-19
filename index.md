@@ -5,7 +5,7 @@ feature_image: "https://code.google.com/images/projecthosting.png"
 excerpt: "Reawakening sleeping beauties found on [Google Code](https://code.google.com/archive/)."
 ---
 
-The Google Code Necromancy Project is a community effort to salvage interesting projects found on the Google Code Archive and reviving these by mirroring to GitHub.
+The Google Code Necromancy Project is a community effort to salvage interesting projects found on the Google Code Archive and reviving these by mirroring repositories to GitHub.
 
 ## What was Google Code anyway?
 
@@ -31,4 +31,4 @@ If you are interested in actively developing a project we have mirrored, please 
 Do you want to suggest a project to be added? Or perhaps you would like to contribute to the GCNP, yourself? [Just take a minute to fill out this short form.](https://forms.gle/QxusrdhA9gp6bsaX7)
 
 
-{% include button.html text="" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://gcnp.github.io/&text=Discover%20and%20Uncover%20Lost%20Google%20Code%20Projects" color="#0d94e7" %}
+{% include button.html text="Tweet Us!" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://gcnp.github.io/&text=Discover%20and%20Uncover%20Lost%20Google%20Code%20Projects" color="#0d94e7" %}
