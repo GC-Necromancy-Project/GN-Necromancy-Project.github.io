@@ -1,8 +1,6 @@
 ---
 title: The Google Code Necromancy Project
 feature_text: |
-  ## The Google Code Necromancy Project
-  #### Reviving Projects from Google Code Archive.
 feature_image: "https://code.google.com/images/projecthosting.png"
 excerpt: "Reawakening sleeping beauties found on [Google Code](https://code.google.com/archive/)."
 ---
